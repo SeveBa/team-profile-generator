@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+}
+
+.main-title {
+    text-align: center;
+    font-size: 3vw;
+    background-color:#0E0E52;
+    padding: 2% 0;
+    margin-bottom: 2%;
+    color: white;
+    font-family: Verdana;
+    
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    margin: 1%;
+    border: solid;
+    width: 20%;
+    border-radius: 10px;
+}
+
+.manager {
+    padding-left: 4%;
+    background-color: #A9CEF4;
+    font-family: Verdana;
+  
+}
+
+.engineer {
+    padding-left: 4%;
+    background-color: #449DD1;
+    font-family: Verdana;
+    
+}
+
+.intern {
+    padding-left: 4%;
+    background-color: #7EA0B7;
+    font-family: Verdana;
+   
+}
+
+.employee-name {
+    font-size: 2vw;
+}
+
+.employee-role {
+    font-size: 1.5vw;
+}
+
+.info {
+    background-color: grey;
+}
+
+.info-list {
+    list-style: none;
+    margin: 2% 0;
+    padding: 1% 5%;
+}
+
+.info-item {
+    font-size: 1.1vw;
+    padding: 1% 0;
+    border:  .2vw solid;
+    background-color: white;
+}
+
+.employee-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

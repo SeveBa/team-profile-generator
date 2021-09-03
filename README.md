@@ -12,7 +12,7 @@ This is a command line application that lets the user input information about em
 * CSS
 
 ## Preview
-
+https://github.com/SeveBa/team-profile-generator/issues/1#issue-987383491
 
 ## Walkthrough Video
 https://drive.google.com/file/d/1RuR2kRDD4G4EGfv8UyP32Krg4GwdWNuQ/view

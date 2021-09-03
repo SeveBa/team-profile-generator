@@ -12,7 +12,8 @@ This is a command line application that lets the user input information about em
 * CSS
 
 ## Preview
-https://github.com/SeveBa/team-profile-generator/issues/1#issue-987383491
+![Screen Shot 2021-09-02 at 11 11 46 PM](https://user-images.githubusercontent.com/4949903/131950149-9aa34d38-e3f0-46e8-aaa2-ff7554539efa.png)
+
 
 ## Walkthrough Video
 https://drive.google.com/file/d/1RuR2kRDD4G4EGfv8UyP32Krg4GwdWNuQ/view
